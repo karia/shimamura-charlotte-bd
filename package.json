@@ -1,0 +1,17 @@
+{
+  "name": "shimamura-charlotte-bd",
+  "version": "1.0.0",
+  "description": "島村シャルロットお誕生日プロジェクトのWebサイト",
+  "author": "karia",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
