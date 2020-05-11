@@ -1,29 +1,140 @@
 <template>
   <div class="container">
     <div>
-      <logo />
       <h1 class="title">
-        shimamura-charlotte-bd
+        島村シャルロットお誕生日プロジェクト
       </h1>
-      <h2 class="subtitle">
-        島村シャルロットお誕生日プロジェクトのWebサイト
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
+
+      <section class="download">
+        <h2 class="subtitle">
+          ダウンロード
+        </h2>
+        <div class="links">
+          <p>ここからダウンロードしてね</p>
+          <a
+            href="world-2020-05-11-10-04-13.zip"
+            class="button--green"
+          >
+            ダウンロード（38MB）
+          </a>
+        </div>
+      </section>
+
+      <section class="single">
+        <h2 class="subtitle">
+          シングルで遊ぶ方法(Windows)
+        </h2>
+        <div>
+          <p>以下の手順ではシングルのワールドとしてデータをインポートします。完了するとシングルで遊べるようになります。</p>
+
+          <p>※複数人（マルチ）で遊びたい場合は、先にシングルでのインポートする手順を完了したあと「Minecraft Realms」で遊ぶ手順に進んでください。</p>
+
+          <p>(0) ダウンロードしたzipファイルを解凍します</p>
+
+          <p>(1) マインクラフトを起動し、「設定」をクリック</p>
+          <img src="windows/1.png" alt="1">
+
+          <p>2)「リソースパック」をクリック</p>
+          <img src="windows/2.png" alt="2">
+
+          <p>3)「リソースパックフォルダーを開く」をクリックしてフォルダを開く</p>
+          <img src="windows/3.png" alt="3">
+
+          <p>4) 以下のようにエクスプローラーのウインドウが開くので、１つ上のフォルダに戻るボタンを押す</p>
+          <img src="windows/4.png" alt="4">
+
+          <p>5) 展開した配布ワールド.zipの中身を「saves」フォルダにドラッグ＆ドロップ</p>
+          <img src="windows/5.png" alt="5">
+
+          <p>6) マインクラフトのタイトルから「シングルプレイ」に入りなおし、配布ワールドが追加されていれば成功</p>
+        </div>
+
+        <h2 class="subtitle">
+          シングルで遊ぶ方法(mac)
+        </h2>
+        <div>
+          <p>1) 画面左下の、「Finder」のボタンをクリックします。</p>
+          <img src="mac/01.png" alt="01">
+
+          <p>2) 画面左上の「移動」をクリックしたあと、「option」キーを押すと、押している間だけ「ライブラリ」が表示されるので、「ライブラリ」をクリックします。</p>
+          <img src="mac/02.png" alt="02">
+
+          <p> 「Application Support」をダブルクリックします。</p>
+          <img src="mac/03.png" alt="03">
+
+          <p>「minecraft」をダブルクリックします。</p>
+          <img src="mac/04.png" alt="04">
+
+          <p> 「saves」をダブルクリックします。</p>
+          <img src="mac/05.png" alt="05">
+
+          <p>「minecraft」をダブルクリックします。</p>
+          <img src="mac/06.png" alt="06">
+
+          <p>マイクラ配布ワールドの中に入っている「world」フォルダを「saves」のウィンドウにドラッグ＆ドロップします。Minecraftを起動して、シングルプレイを開くとワールドが追加されています。</p>
+          <img src="mac/07.png" alt="07">
+
+          <p>Minecraftを起動して、シングルプレイを開くとワールドが追加されています。</p>
+        </div>
+      </section>
+
+      <section class="multi">
+        <h2 class="subtitle">
+          マルチで遊ぶ方法
+        </h2>
+        <div>
+          <p>(1) Minecraftを起動し、「Minecraft Realms」をクリック</p>
+          <img src="realms/1.png" alt="1">
+
+          <p>(2)「クリックしてRealmsを作る」をクリック</p>
+          <img src="realms/2.png" alt="2">
+
+          <p>(3) Realmsの名前、Realmsの説明を入力（好きな名前を決めてください）</p>
+          <img src="realms/3.png" alt="3">
+
+          <p>(4) 一覧の画面に戻るので、作成したサーバーをクリックしたあと、「Realmsの設定」をクリック</p>
+          <img src="realms/4.png" alt="4">
+
+          <p>(5) 「ワールドのリセット」をクリック</p>
+          <img src="realms/5.png" alt="5">
+
+          <p>(6) 「ワールドをアップロード」をクリック</p>
+          <img src="realms/6.png" alt="6">
+
+          <p>(7) 自分が持っているシングルのワールドが表示されるので、インポートしたいワールドをクリックし、「アップロード」を選択</p>
+          <img src="realms/7.png" alt="7">
+
+          <p>(8) アップロードが完了したら「完了」をクリック</p>
+          <img src="realms/8.png" alt="8">
+
+          <p>(9) 一覧の画面に戻るので、作成したサーバーをクリックしたあと、「プレイ」をクリック</p>
+          <img src="realms/9.png" alt="9">
+
+          <p>これでプレイできます！</p>
+        </div>
+      </section>
+
+      <section class="about">
+        <h2 class="subtitle">
+          島村シャルロットについて
+        </h2>
+        <div class="links">
+          <a
+            href="https://www.youtube.com/channel/UCYTz3uIgwVY3ZU-IQJS8r3A"
+            target="_blank"
+            class="button--green"
+          >
+            YouTube
+          </a>
+          <a
+            href="https://twitter.com/Charlotte_HNST"
+            target="_blank"
+            class="button--grey"
+          >
+            Twitter
+          </a>
+        </div>
+      </section>
     </div>
   </div>
 </template>
@@ -53,7 +164,7 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 50px;
   color: #35495e;
   letter-spacing: 1px;
 }
@@ -63,10 +174,12 @@ export default {
   font-size: 42px;
   color: #526488;
   word-spacing: 5px;
+  padding-top: 15px;
   padding-bottom: 15px;
 }
 
 .links {
   padding-top: 15px;
+  padding-bottom: 15px;
 }
 </style>
