@@ -2,21 +2,29 @@
   <div class="container">
     <div>
       <h1 class="title">
-        島村シャルロットお誕生日プロジェクト2020
+        島村シャルロット<br>
+        お誕生日プロジェクト2020
       </h1>
+
+      <section class="download">
+        <div class="links">
+          WIP(この辺に動画を埋め込む)
+        </div>
+      </section>
 
       <section class="download">
         <h2 class="subtitle">
           ワールドデータダウンロード
         </h2>
         <div class="links">
-          <p>お誕生日記念ワールドのデータはここからダウンロードしてね</p>
+          <p>お誕生日記念のマイクラワールドのデータは以下のボタンからダウンロードしてね</p>
           <a
             href="world-2020-05-11-10-04-13.zip"
             class="button--green"
           >
             ダウンロード（38MB）
           </a>
+          <p>このワールドの利用規約はこちらからご確認ください</p>
         </div>
       </section>
 
@@ -42,10 +50,26 @@
         </div>
       </section>
 
+      <section class="settings">
+        <h2 class="subtitle">
+          推奨設定
+        </h2>
+        <div class="links">
+          <p>以下の設定を推奨します</p>
+          <p>ビデオ設定→描画距離：32 チャンク</p>
+          <p>ビデオ設定→雲の表示：オフ</p>
+        </div>
+      </section>
+
       <section class="single">
         <h2 class="subtitle">
-          シングルで遊ぶ方法(Windows)
+          ワールドデータの使い方
         </h2>
+
+        <h3>
+          シングルで遊ぶ（OSがWindowsの場合）
+        </h3>
+
         <div>
           <p>以下の手順ではシングルのワールドとしてデータをインポートします。完了するとシングルで遊べるようになります。</p>
 
@@ -71,9 +95,10 @@
           <p>6) マインクラフトのタイトルから「シングルプレイ」に入りなおし、配布ワールドが追加されていれば成功</p>
         </div>
 
-        <h2 class="subtitle">
-          シングルで遊ぶ方法(mac)
-        </h2>
+        <h3>
+          シングルで遊ぶ(OSがmacの場合)
+        </h3>
+
         <div>
           <p>1) 画面左下の、「Finder」のボタンをクリックします。</p>
           <img src="mac/01.png" alt="01">
@@ -98,12 +123,11 @@
 
           <p>Minecraftを起動して、シングルプレイを開くとワールドが追加されています。</p>
         </div>
-      </section>
 
-      <section class="multi">
-        <h2 class="subtitle">
+        <h3 class="subtitle">
           マルチで遊ぶ方法
-        </h2>
+        </h3>
+
         <div>
           <p>(1) Minecraftを起動し、「Minecraft Realms」をクリック</p>
           <img src="realms/1.png" alt="1">
@@ -168,6 +192,8 @@ export default {
   font-size: 80px;
   color: #35495e;
   letter-spacing: 1px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .subtitle {
