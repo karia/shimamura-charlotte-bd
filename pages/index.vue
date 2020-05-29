@@ -28,6 +28,15 @@
         </div>
       </section>
 
+      <section class="screenshot">
+        <h2 class="subtitle">
+          エリアガイド
+        </h2>
+        <div class="links">
+          <p>WIP(スクショをエリアごとに何枚か入れる)</p>
+        </div>
+      </section>
+
       <section class="about">
         <h2 class="subtitle">
           島村シャルロットについて
@@ -55,9 +64,20 @@
           推奨設定
         </h2>
         <div class="links">
-          <p>以下の設定を推奨します</p>
+          <p>本ワールドのデータで遊ぶ際は、以下の設定を推奨します</p>
           <p>ビデオ設定→描画距離：32 チャンク</p>
           <p>ビデオ設定→雲の表示：オフ</p>
+        </div>
+      </section>
+
+      <section class="terms">
+        <h2 class="subtitle">
+          利用規約
+        </h2>
+        <div class="links">
+          <p>このワールドは<a href="https://www.774.ai/guideline">774inc.の二次創作ガイドライン</a>に従って制作・配布しています。利用する際は下記に従ってください。</p>
+          <p>・ハニーストラップおよび774incのメンバーの方は、本ワールドのデータを（配信での利用を含め）自由に利用していただいて問題ありません。</p>
+          <p>・上記以外の方は、個人利用にとどめるようにお願いします。</p>
         </div>
       </section>
 
@@ -160,6 +180,17 @@
         </div>
       </section>
 
+      <section class="contact">
+        <h2 class="subtitle">
+          連絡先
+        </h2>
+        <div class="links">
+          <p>本プロジェクトについてのお問い合わせ</p>
+          <p>ねぎま@タレ</p>
+          <p>カーリア</p>
+        </div>
+      </section>
+
     </div>
   </div>
 </template>
@@ -201,7 +232,7 @@ export default {
   font-size: 42px;
   color: #526488;
   word-spacing: 5px;
-  padding-top: 15px;
+  padding-top: 100px;
   padding-bottom: 15px;
 }
 
