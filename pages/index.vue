@@ -2,20 +2,42 @@
   <div class="container">
     <div>
       <h1 class="title">
-        島村シャルロットお誕生日プロジェクト
+        島村シャルロットお誕生日プロジェクト2020
       </h1>
 
       <section class="download">
         <h2 class="subtitle">
-          ダウンロード
+          ワールドデータダウンロード
         </h2>
         <div class="links">
-          <p>ここからダウンロードしてね</p>
+          <p>お誕生日記念ワールドのデータはここからダウンロードしてね</p>
           <a
             href="world-2020-05-11-10-04-13.zip"
             class="button--green"
           >
             ダウンロード（38MB）
+          </a>
+        </div>
+      </section>
+
+      <section class="about">
+        <h2 class="subtitle">
+          島村シャルロットについて
+        </h2>
+        <div class="links">
+          <a
+            href="https://www.youtube.com/channel/UCYTz3uIgwVY3ZU-IQJS8r3A"
+            target="_blank"
+            class="button--green"
+          >
+            YouTube
+          </a>
+          <a
+            href="https://twitter.com/Charlotte_HNST"
+            target="_blank"
+            class="button--grey"
+          >
+            Twitter
           </a>
         </div>
       </section>
@@ -114,27 +136,6 @@
         </div>
       </section>
 
-      <section class="about">
-        <h2 class="subtitle">
-          島村シャルロットについて
-        </h2>
-        <div class="links">
-          <a
-            href="https://www.youtube.com/channel/UCYTz3uIgwVY3ZU-IQJS8r3A"
-            target="_blank"
-            class="button--green"
-          >
-            YouTube
-          </a>
-          <a
-            href="https://twitter.com/Charlotte_HNST"
-            target="_blank"
-            class="button--grey"
-          >
-            Twitter
-          </a>
-        </div>
-      </section>
     </div>
   </div>
 </template>
@@ -164,7 +165,7 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 80px;
   color: #35495e;
   letter-spacing: 1px;
 }
