@@ -6,6 +6,8 @@
         お誕生日プロジェクト2020
       </h1>
 
+      <img src="screenshots/8047.jpg" alt="8047">
+
       <section class="download">
         <div class="links">
           WIP(この辺に動画を埋め込む)
