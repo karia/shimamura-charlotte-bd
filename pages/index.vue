@@ -87,7 +87,7 @@
           ワールドデータの使い方
         </h2>
 
-        <h3>
+        <h3 class="sectiontitle">
           シングルで遊ぶ（OSがWindowsの場合）
         </h3>
 
@@ -116,7 +116,7 @@
           <p>6) マインクラフトのタイトルから「シングルプレイ」に入りなおし、配布ワールドが追加されていれば成功</p>
         </div>
 
-        <h3>
+        <h3 class="sectiontitle">
           シングルで遊ぶ(OSがmacの場合)
         </h3>
 
@@ -145,7 +145,7 @@
           <p>Minecraftを起動して、シングルプレイを開くとワールドが追加されています。</p>
         </div>
 
-        <h3 class="subtitle">
+        <h3 class="sectiontitle">
           マルチで遊ぶ方法
         </h3>
 
@@ -234,6 +234,13 @@ export default {
   color: #526488;
   word-spacing: 5px;
   padding-top: 100px;
+  padding-bottom: 15px;
+}
+
+.sectiontitle {
+  font-weight: 300;
+  font-size: 30px;
+  padding-top: 50px;
   padding-bottom: 15px;
 }
 
