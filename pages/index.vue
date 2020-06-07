@@ -2,8 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        島村シャルロット<br>
-        お誕生日プロジェクト2020
+        島村シャルロットお誕生日プロジェクト2020
       </h1>
 
       <img src="screenshots/8047.jpg" alt="8047">
@@ -222,8 +221,8 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 80px;
-  color: #35495e;
+  font-size: 60px;
+  color: #210ba0;
   letter-spacing: 1px;
   padding-top: 30px;
   padding-bottom: 30px;
