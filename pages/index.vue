@@ -13,22 +13,6 @@
         </div>
       </section>
 
-      <section class="download">
-        <h2 class="subtitle">
-          ワールドデータダウンロード
-        </h2>
-        <div class="links">
-          <p>お誕生日記念のマイクラワールドのデータは以下のボタンからダウンロードしてね</p>
-          <a
-            href="world-2020-05-11-10-04-13.zip"
-            class="button--green"
-          >
-            ダウンロード（38MB）
-          </a>
-          <p>このワールドの利用規約はこちらからご確認ください</p>
-        </div>
-      </section>
-
       <section class="screenshot">
         <h2 class="subtitle">
           エリアガイド
@@ -60,11 +44,29 @@
         </div>
       </section>
 
+      <section class="download">
+        <h2 class="subtitle">
+          ワールドデータダウンロード
+        </h2>
+        <div class="links">
+          <p>お誕生日記念のマイクラワールドのデータは以下のボタンからダウンロードしてね</p>
+          <a
+            href="charlotte-world-2020-06-08-10-01-13.zip"
+            class="button--green"
+          >
+            ダウンロード（69.8MB）
+          </a>
+          <p>このワールドの利用規約、推奨設定、利用方法は下段よりご確認ください</p>
+        </div>
+      </section>
+
       <section class="settings">
         <h2 class="subtitle">
           推奨設定
         </h2>
         <div class="links">
+          <p>本ワールドは「マインクラフト v1.15.2」「クリエイティブモード」にて制作されています。</p>
+
           <p>本ワールドのデータで遊ぶ際は、以下の設定を推奨します</p>
           <p>ビデオ設定→描画距離：32 チャンク</p>
           <p>ビデオ設定→雲の表示：オフ</p>
