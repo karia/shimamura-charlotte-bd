@@ -20,7 +20,7 @@
 
       <section class="screenshot">
         <h2 class="subtitle">
-          エリアガイド
+          スクリーンショット
         </h2>
         <div class="links">
           <img src="screenshots/acnh-airport.jpg" alt="">
