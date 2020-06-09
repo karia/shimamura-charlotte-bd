@@ -54,7 +54,7 @@
         </div>
       </section>
 
-      <section class="settings">
+      <section id="settings">
         <h2 class="subtitle">
           推奨設定
         </h2>
@@ -63,7 +63,7 @@
 
           <p>本ワールドのデータで遊ぶ際は、以下の設定を推奨します</p>
 
-          <img src="screenshots/settings-video.jpg" alt="">
+          <img src="screenshots/settings-video.png" alt="">
 
           <p>ビデオ設定→描画距離：「32チャンク」の設定がオススメですが、バーチャル赤羽エリア付近では動作を軽くするため「12チャンク」程度まで下げてください。</p>
           <p>ビデオ設定→雲の表示：「オフ」に設定してください。</p>
