@@ -27,28 +27,6 @@
         </div>
       </section>
 
-      <section class="about">
-        <h2 class="subtitle">
-          島村シャルロットについて
-        </h2>
-        <div class="links">
-          <a
-            href="https://www.youtube.com/channel/UCYTz3uIgwVY3ZU-IQJS8r3A"
-            target="_blank"
-            class="button--green"
-          >
-            YouTube
-          </a>
-          <a
-            href="https://twitter.com/Charlotte_HNST"
-            target="_blank"
-            class="button--grey"
-          >
-            Twitter
-          </a>
-        </div>
-      </section>
-
       <section class="download">
         <h2 class="subtitle">
           ワールドデータダウンロード
@@ -202,6 +180,28 @@
         <div class="links">
           <p>サバイバルモードへの変更方法</p>
 
+        </div>
+      </section>
+
+      <section class="about">
+        <h2 class="subtitle">
+          島村シャルロットについて
+        </h2>
+        <div class="links">
+          <a
+            href="https://www.youtube.com/channel/UCYTz3uIgwVY3ZU-IQJS8r3A"
+            target="_blank"
+            class="button--green"
+          >
+            YouTube
+          </a>
+          <a
+            href="https://twitter.com/Charlotte_HNST"
+            target="_blank"
+            class="button--grey"
+          >
+            Twitter
+          </a>
         </div>
       </section>
 
