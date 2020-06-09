@@ -1,15 +1,20 @@
 <template>
   <div class="container">
     <div>
+      <img src="hbdtop.jpg" alt="HAPPY BIRTHDAY!">
+
       <h1 class="title">
         島村シャルロットお誕生日プロジェクト2020
       </h1>
 
-      <img src="screenshots/8047.jpg" alt="8047">
+      <p>シャルちゃんのお誕生日を記念して、島村建設マイクラ課の社員一同でお誕生日記念ワールドを作成しました。ぜひダウンロードして遊んでみてください！</p>
 
-      <section class="download">
+      <section class="movie">
+        <h2 class="subtitle">
+          紹介動画
+        </h2>
         <div class="links">
-          WIP(この辺に動画を埋め込む)
+          WIP(この辺に動画を埋め込みます)
         </div>
       </section>
 
@@ -196,6 +201,7 @@
         </h2>
         <div class="links">
           <p>サバイバルモードへの変更方法</p>
+
         </div>
       </section>
 
