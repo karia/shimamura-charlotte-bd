@@ -1,6 +1,12 @@
 <template>
   <div class="container">
     <div>
+      <section id="caution">
+        <p><strong>テストプレイにご協力してくださる皆様へ</strong></p>
+        <p>このWebサイトは2020年6月25日0時に公開する予定です。解禁時間まではTwitterなど公の場所に漏らさないよう、ご協力をお願いします！</p>
+        <p></p><a href="https://forms.gle/Ax9ZKcrmkJmTASRX9">テストプレイの感想フォームはこちらから！</a></p>
+      </section>
+
       <img src="hbdtop.jpg" alt="HAPPY BIRTHDAY!">
 
       <h1 class="title">
@@ -45,10 +51,10 @@
         <div class="links">
           <p>お誕生日記念のマイクラワールドのデータは以下のボタンからダウンロードしてね</p>
           <a
-            href="charlotte-world-2020-06-08-10-01-13.zip"
+            href="charlotte-world-2020-06-10-04-00-34.zip"
             class="button--green"
           >
-            ダウンロード（69.8MB）
+            ダウンロード（72MB）
           </a>
           <p>このワールドの利用規約、推奨設定、利用方法は下段よりご確認ください</p>
         </div>
@@ -292,5 +298,11 @@ export default {
 .links {
   padding-top: 15px;
   padding-bottom: 15px;
+}
+#caution {
+  border: medium solid red;
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
 }
 </style>
