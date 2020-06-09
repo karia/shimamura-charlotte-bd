@@ -23,7 +23,18 @@
           エリアガイド
         </h2>
         <div class="links">
-          <p>WIP(スクショをエリアごとに何枚か入れる)</p>
+          <img src="screenshots/acnh-airport.jpg" alt="">
+          <p>あつまれ　どうぶつの森</p>
+
+          <img src="screenshots/charlotte-radio.jpg" alt="">
+          <p>シャルラジ</p>
+
+          <img src="screenshots/virtual-akabane-station.jpg" alt="">
+          <p>バーチャル赤羽駅</p>
+
+          <img src="screenshots/hirojien.jpg" alt="">
+          <p>ひろじえん</p>
+
         </div>
       </section>
 
