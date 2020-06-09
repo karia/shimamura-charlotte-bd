@@ -187,6 +187,12 @@
         <h2 class="subtitle">
           島村シャルロットについて
         </h2>
+        <p>
+          【プロフィール】<br>
+          ハニーストラップの末っ子わがまま店員。<br>
+          悪魔なのに天使と呼ばれることが多く、、、それが悩みという女悪魔。<br>
+          しっかりした悪魔になろうと、一日一悪を掲げるものの、根が素直でいい子なのでなかなか悪いことができない。
+        </p>
         <div class="links">
           <a
             href="https://www.youtube.com/channel/UCYTz3uIgwVY3ZU-IQJS8r3A"
