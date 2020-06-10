@@ -28,19 +28,37 @@
         <h2 class="subtitle">
           スクリーンショット
         </h2>
+
+        <h3 class="sectiontitle">
+          中央広場（スポーン地点）
+        </h3>
+
         <div class="links">
           <img src="screenshots/acnh-airport.jpg" alt="">
           <p>あつまれ　どうぶつの森</p>
+        </div>
 
-          <img src="screenshots/charlotte-radio.jpg" alt="">
-          <p>シャルラジ</p>
+        <h3 class="sectiontitle">
+          ゲームエリア
+        </h3>
 
+        <div class="links">
+          <p>WIP（スクリーンショット追加予定）</p>
+        </div>
+
+        <h3 class="sectiontitle">
+          バーチャル赤羽エリア
+        </h3>
+
+        <div class="links">
           <img src="screenshots/virtual-akabane-station.jpg" alt="">
           <p>バーチャル赤羽駅</p>
 
           <img src="screenshots/hirojien.jpg" alt="">
           <p>ひろじえん</p>
 
+          <img src="screenshots/charlotte-radio.jpg" alt="">
+          <p>シャルラジ壁画</p>
         </div>
       </section>
 
@@ -50,13 +68,13 @@
         </h2>
         <div class="links">
           <p>お誕生日記念のマイクラワールドのデータは以下のボタンからダウンロードしてね</p>
-          <a
+          <p><a
             href="charlotte-world-2020-06-10-04-00-34.zip"
             class="button--green"
           >
             ダウンロード（72MB）
-          </a>
-          <p>このワールドの利用規約、推奨設定、利用方法は下段よりご確認ください</p>
+          </a></p>
+          <p>このワールドのインストール方法・推奨設定・利用規約は下段よりご確認ください</p>
         </div>
       </section>
 
@@ -69,10 +87,14 @@
 
           <p>本ワールドのデータで遊ぶ際は、以下の設定を推奨します</p>
 
+          <h3 class="sectiontitle">
+            ビデオ設定
+          </h3>
+
           <img src="screenshots/settings-video.png" alt="">
 
-          <p>ビデオ設定→描画距離：「32チャンク」の設定がオススメですが、バーチャル赤羽エリア付近では動作を軽くするため「12チャンク」程度まで下げてください。</p>
-          <p>ビデオ設定→雲の表示：「オフ」に設定してください。</p>
+          <p><strong>描画距離</strong>：最も遠くまで見える「32チャンク」の設定がオススメですが、バーチャル赤羽エリア付近では動作を軽くするため「12チャンク」程度まで下げてください。</p>
+          <p><strong>雲の表示</strong>：建築物と被る場合があるため「オフ」に設定してください。</p>
 
         </div>
       </section>
