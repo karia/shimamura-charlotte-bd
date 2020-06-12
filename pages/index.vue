@@ -69,7 +69,7 @@
         <div class="links">
           <p>お誕生日記念のマイクラワールドのデータは以下のボタンからダウンロードしてね</p>
           <p><a
-            href="charlotte-world-2020-06-10-04-00-34.zip"
+            href="charlotte-world-2020-06-12-22-00-00.zip"
             class="button--green"
           >
             ダウンロード（72MB）
