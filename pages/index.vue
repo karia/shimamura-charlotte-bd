@@ -20,7 +20,7 @@
           紹介動画
         </h2>
         <div class="links">
-          WIP(この辺に動画を埋め込みます)
+          <iframe width="854" height="480" src="https://www.youtube-nocookie.com/embed/qj03DHjigBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </section>
 
