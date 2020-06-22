@@ -26,6 +26,22 @@
 
       <section class="screenshot">
         <h2 class="subtitle">
+          プレイ所要時間
+        </h2>
+        <div>
+          各エリア 5分～20分程度×6エリア
+        </div>
+        <div>
+          シャルちゃんの家：20分～
+        </div>
+        <div>
+          バーチャル赤羽エリア：1時間～∞<br>
+          ※バーチャル赤羽は非常に広大なエリアのため、時間に余裕がある際にごゆるりとご観覧ください
+        </div>
+      </section>
+
+      <section class="screenshot">
+        <h2 class="subtitle">
           スクリーンショット
         </h2>
 
