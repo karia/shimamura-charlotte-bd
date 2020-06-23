@@ -96,7 +96,7 @@
           <img src="realms/3.png" alt="3">
 
           <p>(4) 一覧の画面に戻るので、作成したサーバーをクリックしたあと、「Realmsの設定」をクリック</p>
-          <img src="realms/4.png" alt="4">
+          <img src="realms/9.png" alt="4">
 
           <p>(5) 「ワールドのリセット」をクリック</p>
           <img src="realms/5.png" alt="5">
