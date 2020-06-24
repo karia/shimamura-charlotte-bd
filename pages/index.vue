@@ -49,14 +49,6 @@
         </div>
 
         <h3 class="sectiontitle">
-          ゲームエリア
-        </h3>
-
-        <div class="links">
-          <p>WIP（スクリーンショット追加予定）</p>
-        </div>
-
-        <h3 class="sectiontitle">
           バーチャル赤羽エリア
         </h3>
 
