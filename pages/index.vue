@@ -1,12 +1,6 @@
 <template>
   <div class="container">
     <div>
-      <section id="caution">
-        <p><strong>テストプレイにご協力してくださる皆様へ</strong></p>
-        <p>このWebサイトは2020年6月25日0時に公開する予定です。解禁時間まではTwitterなど公の場所にURLを漏らさないよう、ご協力をお願いします！</p>
-        <p></p><a href="https://forms.gle/Ax9ZKcrmkJmTASRX9">テストプレイの感想フォームはこちらから！</a></p>
-      </section>
-
       <img src="hbdtop.jpg" alt="HAPPY BIRTHDAY!">
 
       <h1 class="title">
