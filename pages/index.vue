@@ -174,12 +174,10 @@
 
       <section class="contact">
         <h2 class="subtitle">
-          連絡先
+          本プロジェクトについてのお問い合わせ先
         </h2>
         <div class="links">
-          <p>本プロジェクトについてのお問い合わせ</p>
-          <p>ねぎま@タレ</p>
-          <p>カーリア</p>
+          <p>お問い合わせは<a href="https://twitter.com/hitsuji_world">本プロジェクトの告知用Twitterアカウント @hitsuji_world</a>宛にお願いします。</p>
         </div>
       </section>
 
