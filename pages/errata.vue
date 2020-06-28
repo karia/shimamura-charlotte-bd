@@ -2,36 +2,53 @@
   <div class="container">
     <div>
       <section class="single">
-        <h2 class="subtitle">
+        <h1 class="title">
           お知らせ
+        </h1>
+
+        <p>配布ワールドの下記の箇所に不具合がありましたので、訂正させていただきます。</p>
+
+        <h2 class="subtitle">
+          初期リスポーン位置の不具合について
         </h2>
 
-        <p>配布ワールドの下記の箇所について、訂正させていただきます。</p>
+        <section class="article">
+          <div>
+            <p>公開当初に配布していたバージョン1.16対応のセーブデータにおいて、プレイ開始時の初期位置（初期リスポーン位置）に誤りがございました。</p>
+            <p>6月26日に更新した、最新の配布データ（charlotte-world-1.16.1-2020-06-26-15-55-04.zip）にて修正されております。</p>
+          </div>
 
-        <h3 class="sectiontitle">
-          初期リスポーン位置の不具合について
-        </h3>
+          <h3 class="sectiontitle">
+           対応方法
+          </h3>
 
-        <div>
-          <p>公開当初に配布していたセーブデータの初期リスポーン位置に誤りがございました。</p>
-          <img src="errata/map.png" alt="map">
-        </div>
+          <div>
+            <p>まだプレイ開始前の方：最新の配布データをダウンロードし、インストールしなおしてください。</p>
+            <p>既にプレイ開始済みの方：以下の地図を参考に、正しい初期位置へ移動をお願いします。</p>
+            <img src="errata/map.png" alt="map">
+            <p>・クリエイティブモードでプレイ中の方：通常飛行にて移動可能です</p>
+            <p>・サバイバルモードに変更してプレイ中の方：島村建設本社ビル斜め向かい、ブティックFORESTからバーチャル赤羽エリア外へ飛び下りる事が可能です。落下ダメージはありません。</p>
+          </div>
+        </section>
 
-        <h3 class="sectiontitle">
+
+        <h2 class="subtitle">
           タイトル  
-        </h3>
+        </h2>
 
-        <div>
-          <p>修正内容</p>
-        </div>
+        <section class="article">
+          <div>
+            <p>不具合の内容をここに書く</p>
+          </div>
 
-        <h3 class="sectiontitle">
-          タイトル
-        </h3>
+          <h3 class="sectiontitle">
+           対応方法
+          </h3>
 
-        <div>
-          <p>修正内容</p>
-        </div>
+          <div>
+            <p>対応方法をここに書く（回避方法やテキストを読み替える内容など）</p>
+          </div>
+        </section>
       </section>
 
       <section class="backtotop">
@@ -101,5 +118,10 @@ export default {
   padding: 20px;
   margin: 20px;
   font-size: 20px;
+}
+.article {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
 }
 </style>
