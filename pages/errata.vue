@@ -19,13 +19,20 @@
           </div>
 
           <h3 class="sectiontitle">
-           対応方法
+            対応方法
           </h3>
 
           <div>
             <p>まだプレイ開始前の方：最新の配布データをダウンロードし、インストールしなおしてください。</p>
             <p>既にプレイ開始済みの方：以下の地図を参考に、正しい初期位置へ移動をお願いします。</p>
             <img src="errata/map.png" alt="map">
+          </div>
+
+          <h3 class="sectiontitle">
+            【参考】ゲームモード別の移動方法
+          </h3>
+
+          <div>
             <p>・クリエイティブモードでプレイ中の方：通常飛行にて移動可能です</p>
             <p>・サバイバルモードに変更してプレイ中の方：島村建設本社ビル斜め向かい、ブティックFORESTからバーチャル赤羽エリア外へ飛び下りる事が可能です。落下ダメージはありません。</p>
           </div>
@@ -89,8 +96,8 @@ export default {
   font-size: 60px;
   color: #210ba0;
   letter-spacing: 1px;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .subtitle {
@@ -98,14 +105,14 @@ export default {
   font-size: 42px;
   color: #526488;
   word-spacing: 5px;
-  padding-top: 100px;
+  padding-top: 15px;
   padding-bottom: 15px;
 }
 
 .sectiontitle {
   font-weight: 300;
   font-size: 30px;
-  padding-top: 50px;
+  padding-top: 15px;
   padding-bottom: 15px;
 }
 
@@ -121,7 +128,5 @@ export default {
 }
 .article {
   border: 1px solid black;
-  padding: 20px;
-  margin: 20px;
 }
 </style>
