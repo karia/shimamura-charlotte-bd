@@ -128,5 +128,6 @@ export default {
 }
 .article {
   border: 1px solid black;
+  margin: 15px;
 }
 </style>
