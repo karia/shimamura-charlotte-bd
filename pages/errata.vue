@@ -25,7 +25,7 @@
           <div>
             <p>まだプレイ開始前の方：最新の配布データをダウンロードし、インストールしなおしてください。</p>
             <p>既にプレイ開始済みの方：以下の地図を参考に、正しい初期位置へ移動をお願いします。</p>
-            <img src="errata/map.png" alt="map">
+            <img src="/errata/map.png" alt="map">
           </div>
 
           <h3 class="eratta_sectiontitle">
@@ -38,6 +38,45 @@
           </div>
         </section>
 
+        <h2 class="eratta_subtitle">
+          バーチャル赤羽エリアの「赤羽の9冊の本の謎」について
+        </h2>
+
+        <section class="eratta_article">
+          <div>
+            <p>「赤羽の９冊の本の謎」の最後に本を収めるエリアにて、本の既読・未読などが正しく判断されるため、反応しないことがあります</p>
+          </div>
+
+          <h3 class="eratta_sectiontitle">
+           対応方法（下記のいずれかの方法で回避できます）
+          </h3>
+
+          <div>
+            <p>・9冊の本を入手する際に１冊入手後、チェスト裏のリセットボタンを押して、もう一冊本を手に入れておく</p>
+            <p>・タルの手前のブロックを破壊して出てきたホッパーの中にある本をマウス中ボタン等複製して入れる（クリエイティブモード限定）</p>
+          </div>
+        </section>
+
+        <h2 class="eratta_subtitle">
+          バーチャル赤羽エリア「ミコシャルTNT処理班」の指示書について
+        </h2>
+
+        <section class="eratta_article">
+          <div>
+            <p>ミコシャルTNT処理班の解除指示書14Pにて、環境によって最後の一行が表示されない場合がある</p>
+            <img src="/errata/tnt-book-incollect.png" alt="解除指示書">
+          </div>
+
+          <h3 class="eratta_sectiontitle">
+           対応方法
+          </h3>
+
+          <div>
+            <p>正しい内容はスクリーンショットを参照してください</p>
+            <img src="/errata/tnt-book-collect.png" alt="解除指示書">
+            <p><strong>ミニゲーム開始前にあらかじめ指示書のP14を確認するようにお願いします</strong></p>
+          </div>
+        </section>
 
         <h2 class="eratta_subtitle">
           看板の表示内容修正
@@ -54,10 +93,11 @@
 
           <div>
             <p>下記のスクリーンショットが正しい表示となりますので、読み替えをお願いします。</p>
-            <img src="errata/charlotte-island-star.png" alt="シャルロッ島の評価">
+            <img src="/errata/charlotte-island-star.png" alt="シャルロッ島の評価">
             <p>※ワールドをプレイする上での支障はありません</p>
           </div>
         </section>
+
       </section>
 
       <section class="backtotop">
