@@ -123,8 +123,6 @@
           </div>
         </section>
 
-      </section>
-
         <h2 class="eratta_subtitle">
           バーチャル赤羽エリア「島村建設メディアビル」内の表記について
         </h2>
