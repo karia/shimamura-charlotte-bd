@@ -39,12 +39,12 @@
         </section>
 
         <h2 class="eratta_subtitle">
-          バーチャル赤羽エリアの「赤羽の9冊の本の謎」について
+          バーチャル赤羽エリア9「赤羽の9冊の本の謎」について
         </h2>
 
         <section class="eratta_article">
           <div>
-            <p>「赤羽の９冊の本の謎」の最後に本を収めるエリアにて、本の既読・未読などが正しく判断されるため、反応しないことがあります</p>
+            <p>「赤羽の9冊の本の謎」の最後に本を収めるエリアにて、本の既読・未読などが正しく判断されるため、反応しないことがあります</p>
           </div>
 
           <h3 class="eratta_sectiontitle">
@@ -58,12 +58,12 @@
         </section>
 
         <h2 class="eratta_subtitle">
-          バーチャル赤羽エリア「ミコシャルTNT処理班」の指示書について
+          バーチャル赤羽エリア「ミコシャルTNT処理班」の解除指示書について
         </h2>
 
         <section class="eratta_article">
           <div>
-            <p>ミコシャルTNT処理班の解除指示書14Pにて、環境によって最後の一行が表示されない場合がある</p>
+            <p>ミコシャルTNT処理班の解除指示書P14にて、環境によって最後の一行が表示されない場合がある</p>
             <img src="/errata/tnt-book-incollect.png" alt="解除指示書">
           </div>
 
@@ -72,9 +72,9 @@
           </h3>
 
           <div>
-            <p>正しい内容はスクリーンショットを参照してください</p>
+            <p>解除指示書P14の正しい内容は以下のスクリーンショットの通りとなりますので、読み替えてください</p>
+            <p><strong>ミニゲーム開始前にあらかじめ解除指示書P14を確認するようにお願いします</strong></p>
             <img src="/errata/tnt-book-collect.png" alt="解除指示書">
-            <p><strong>ミニゲーム開始前にあらかじめ指示書のP14を確認するようにお願いします</strong></p>
           </div>
         </section>
 
@@ -98,12 +98,13 @@
         </section>
 
         <h2 class="eratta_subtitle">
-          看板の表示内容修正
+          シャルロッ島案内所　島評価の看板の表示内容修正
         </h2>
 
         <section class="eratta_article">
           <div>
-            <p>シャルロッ島案内所のしずえさんの看板で、島の評価を「星5つ」と言っているにもかかわらず「★★★★」と4個しか表示されていない場合がある（環境によって、表示される場合とされない場合がある）</p>
+            <p>シャルロッ島案内所内の向かって右側の島評価の看板で、一部環境で星が4個しか表示されていない場合がある</p>
+            <img src="/errata/charlotte-island-star-incollect.png" alt="シャルロッ島の評価">
           </div>
 
           <h3 class="eratta_sectiontitle">
@@ -120,12 +121,12 @@
       </section>
 
         <h2 class="eratta_subtitle">
-          バーチャル赤羽エリア「島村建設メディアビル」の表記について
+          バーチャル赤羽エリア「島村建設メディアビル」内の表記について
         </h2>
 
         <section class="eratta_article">
           <div>
-            <p>バーチャル赤羽エリア・島村建設メディアビルにある上層階用エレベーターの看板で「しまむーびー」表記になってしまっている箇所がある</p>
+            <p>島村建設メディアビル・上層階用エレベーター乗り場の看板で「しまむーびー」表記になってしまっている箇所がある</p>
             <img src="/errata/shimamura-media-bldg-movie.jpg" alt="島村建設メディアビル">
           </div>
 
@@ -214,6 +215,7 @@ export default {
 .eratta_article {
   border: 1px solid black;
   padding: 15px;
+  margin: 15px;
   margin-bottom: 30px;
 }
 </style>
