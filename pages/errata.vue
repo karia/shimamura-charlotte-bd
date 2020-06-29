@@ -79,6 +79,25 @@
         </section>
 
         <h2 class="eratta_subtitle">
+          バーチャル赤羽エリア「島村フラワーガーデン」前の地図について 
+        </h2>
+
+        <section class="eratta_article">
+          <div>
+            <p>黄9丁目エリア、島村フラワーガーデンの前の地図が消えていることがあります</p>
+          </div>
+
+          <h3 class="eratta_sectiontitle">
+           対応方法
+          </h3>
+
+          <div>
+            <p>黄9丁目の旗の上に浸食してきているツタを破壊すると地図が表示されるようになります</p>
+            <img src="/errata/flower-garden-map-collect.jpg" alt="島村フラワーガーデン前">
+          </div>
+        </section>
+
+        <h2 class="eratta_subtitle">
           看板の表示内容修正
         </h2>
 
@@ -94,6 +113,28 @@
           <div>
             <p>下記のスクリーンショットが正しい表示となりますので、読み替えをお願いします。</p>
             <img src="/errata/charlotte-island-star.png" alt="シャルロッ島の評価">
+            <p>※ワールドをプレイする上での支障はありません</p>
+          </div>
+        </section>
+
+      </section>
+
+        <h2 class="eratta_subtitle">
+          バーチャル赤羽エリア「島村建設メディアビル」の表記について
+        </h2>
+
+        <section class="eratta_article">
+          <div>
+            <p>バーチャル赤羽エリア・島村建設メディアビルにある上層階用エレベーターの看板で「しまむーびー」表記になってしまっている箇所がある</p>
+            <img src="/errata/shimamura-media-bldg-movie.jpg" alt="島村建設メディアビル">
+          </div>
+
+          <h3 class="eratta_sectiontitle">
+           対応方法
+          </h3>
+
+          <div>
+            <p>「しまむービー」（後ろ2文字がカタカナ）に読み替えをお願いします。</p>
             <p>※ワールドをプレイする上での支障はありません</p>
           </div>
         </section>
