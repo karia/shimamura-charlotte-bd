@@ -2,23 +2,23 @@
   <div class="container">
     <div>
       <section class="single">
-        <h1 class="title">
+        <h1 class="eratta_title">
           お知らせ
         </h1>
 
         <p>配布ワールドの下記の箇所に不具合がありましたので、訂正させていただきます。</p>
 
-        <h2 class="subtitle">
+        <h2 class="eratta_subtitle">
           初期リスポーン位置の不具合について
         </h2>
 
-        <section class="article">
+        <section class="eratta_article">
           <div>
             <p>公開当初に配布していたバージョン1.16対応のセーブデータにおいて、プレイ開始時の初期位置（初期リスポーン位置）に誤りがございました。</p>
             <p>6月26日に更新した、最新の配布データ（charlotte-world-1.16.1-2020-06-26-15-55-04.zip）にて修正されております。</p>
           </div>
 
-          <h3 class="sectiontitle">
+          <h3 class="eratta_sectiontitle">
             対応方法
           </h3>
 
@@ -28,7 +28,7 @@
             <img src="errata/map.png" alt="map">
           </div>
 
-          <h3 class="sectiontitle">
+          <h3 class="eratta_sectiontitle">
             【参考】ゲームモード別の移動方法
           </h3>
 
@@ -39,16 +39,16 @@
         </section>
 
 
-        <h2 class="subtitle">
+        <h2 class="eratta_subtitle">
           タイトル  
         </h2>
 
-        <section class="article">
+        <section class="eratta_article">
           <div>
             <p>不具合の内容をここに書く</p>
           </div>
 
-          <h3 class="sectiontitle">
+          <h3 class="eratta_sectiontitle">
            対応方法
           </h3>
 
@@ -88,30 +88,30 @@ export default {
   text-align: center;
 }
 
-.title {
+.eratta_title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 60px;
+  font-size: 40px;
   color: #210ba0;
   letter-spacing: 1px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-.subtitle {
+.eratta_subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 30px;
   color: #526488;
   word-spacing: 5px;
   padding-top: 15px;
   padding-bottom: 15px;
 }
 
-.sectiontitle {
+.eratta_sectiontitle {
   font-weight: 300;
-  font-size: 30px;
+  font-size: 26px;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -120,14 +120,17 @@ export default {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
 #caution {
   border: medium solid red;
   padding: 20px;
   margin: 20px;
   font-size: 20px;
 }
-.article {
+
+.eratta_article {
   border: 1px solid black;
-  margin: 15px;
+  padding: 15px;
+  margin-bottom: 30px;
 }
 </style>
