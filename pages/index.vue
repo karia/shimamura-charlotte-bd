@@ -102,21 +102,6 @@
             ファイル名：charlotte-world-1.16.1-2020-06-26-15-55-04.zip
           </p>
 
-          <h3 class="sectiontitle">
-            マインクラフト1.15.2に対応したデータはこちらから
-          </h3>
-
-          <p><a
-            href="charlotte-world-2020-06-24-00-15-22.zip"
-            class="button--green"
-          >
-            バージョン1.15.2対応データ　ダウンロード（78MB）
-          </a></p>
-
-          <p>
-            ファイル名：charlotte-world-2020-06-24-00-15-22.zip
-          </p>
-
           <p>このワールドのインストール方法・推奨設定・利用規約は下段よりご確認ください</p>
         </div>
       </section>
