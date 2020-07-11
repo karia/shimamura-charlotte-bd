@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <div>
+      <div>2周年記念の更新作業中dayo</div>
+
       <img src="hbdtop.jpg" alt="HAPPY BIRTHDAY!">
 
       <h1 class="title">
@@ -22,6 +24,7 @@
       <h3 class="sectiontitle">
         お知らせ
       </h3>
+      <p>ハニーストラップ2周年記念のアップデートを配布開始しました！（7月14日0:00更新）</p>
       <p><a href="/errata">公開後に判明した不具合についての説明ページを公開しました（6月30日1:00更新）</a></p>
 
       <section class="movie">
