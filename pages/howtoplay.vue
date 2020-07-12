@@ -14,7 +14,7 @@
           シングルプレイとマルチプレイ・Minecraft Realmsの違いについて
         </h3>
 
-        <section>
+        <section class="howtoplay_article">
           <div>
           本サイトで配布しているデータは、1人で遊ぶこともできますが、複数人で同時に遊ぶことも可能です。
           </div>
@@ -52,7 +52,7 @@
           シングルプレイで遊ぶ方法（OSがWindowsの場合）
         </h3>
 
-        <div>
+        <section class="howtoplay_article">
           <p>以下の手順ではシングルのワールドとしてデータをインポートします。完了するとシングルで遊べるようになります。</p>
 
           <p>(0) ダウンロードしたzipファイルを解凍し、中に「charlotte-world」というフォルダがあるのを確認する</p>
@@ -80,13 +80,13 @@
 
           <p>(8) マインクラフトを再度起動し、タイトルから「シングルプレイ」を選択。一覧にある「charlotte-world」と書かれたワールドを起動</p>
           <img src="windows/select-world.png" alt="saves">
-        </div>
+        </section>
 
         <h3 class="sectiontitle">
           シングルプレイで遊ぶ方法（OSがmacの場合）
         </h3>
 
-        <div>
+        <section class="howtoplay_article">
           <p>(0) ダウンロードしたzipファイルを解凍する（中にcharlotte-worldというフォルダが入っています）</p>
 
           <p>(1) 画面左下の、「Finder」のボタンをクリック</p>
@@ -112,13 +112,13 @@
 
           <p>(8) 「ワールドを選択」の画面に配布ワールドが追加されているので、選択して起動！</p>
           <img src="mac/07.png" alt="07">
-        </div>
+        </section>
 
         <h3 class="sectiontitle">
           Minecraft Realmsを使って複数人で遊ぶ方法
         </h3>
 
-        <div>
+        <section class="howtoplay_article">
           <div>
             この方法を使う場合、先に「シングルプレイで遊ぶ方法」を実行して、セーブデータをマイクラ内に入れておいてください！
           </div>
@@ -155,7 +155,7 @@
           <img src="realms/9.png" alt="9">
 
           <p>これでプレイできます！</p>
-        </div>
+        </section>
       </section>
 
       <section class="backtotop">
@@ -220,10 +220,10 @@ export default {
   padding-top: 15px;
   padding-bottom: 15px;
 }
-#caution {
-  border: medium solid red;
-  padding: 20px;
-  margin: 20px;
-  font-size: 20px;
+.howtoplay_article {
+  border: 1px solid black;
+  padding: 15px;
+  margin: 15px;
+  margin-bottom: 30px;
 }
 </style>
