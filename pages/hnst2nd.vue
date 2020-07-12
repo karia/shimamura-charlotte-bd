@@ -2,9 +2,9 @@
   <div class="container">
     <div>
       <section class="single">
-        <h2 class="subtitle">
-          ハニーストラップ2周年記念アップデート
-        </h2>
+        <h1 class="update-title">
+          ハニスト2周年記念アップデート!
+        </h1>
 
         <p>ハニーストラップ2周年を記念して「シャルと羊の世界2020」のアップデート版を配布します！</p>
 
@@ -15,30 +15,52 @@
           バージョン1.16.1対応データ　ダウンロード（78MB）
         </a></p>
 
-        <h3 class="sectiontitle">
+        <div>
+          （この配布ワールドで遊ぶにはMinecraft Java Editionが必要です）
+        </div>
+
+        <h2 class="update-subtitle">
           お祭り会場！
-        </h3>
+        </h2>
 
         <img src="/hnst2nd/yagura.jpg">
         <div>
            バーチャル赤羽のアーケードを抜けた先（社員寮近く）にお祭り会場ができました。
         </div>
 
-        <h3 class="sectiontitle">
+        <h2 class="update-subtitle">
           新たな壁画！
-        </h3>
+        </h2>
 
         <img src="/hnst2nd/wallpainting.jpg">
         <div>
           歌ってみた動画「<a href="https://youtu.be/BhHSMrp8IMY">たしかなこと</a>」より、ハニスト4人のイラストを壁画（356×200ブロック）にしました。
         </div>
 
+        <h2 class="update-subtitle">
+          お祭り会場および壁画へのご案内
+        </h2>
+
+        <div>
+          <img src="/hnst2nd/akabane-map.jpg">
+        </div>
+        <div>
+          <img src="/hnst2nd/festival-guide.jpg">
+        </div>
+        <div>
+          お祭り会場および壁画へはコチラのガイドを参考に移動してね！
+        </div>
+
         <h3 class="sectiontitle">
-          その他の修正内容
+          その他の更新内容
         </h3>
 
         <div>
-          既知の不具合を修正しました。
+          一部ゲームエリアにおいて、アイテムの数が減っても自動的に元に戻るようになりました。
+        </div>
+
+        <div>
+          既知の不具合を修正しました。<a href="/errata">詳しくはお知らせのページを参照してください。</a>
         </div>
       </section>
 
@@ -72,37 +94,41 @@ export default {
   text-align: center;
 }
 
-.title {
+.update-title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 60px;
+  font-size: 42px;
   color: #210ba0;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
-.subtitle {
+.update-subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 38px;
   color: #526488;
   word-spacing: 5px;
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 15px;
 }
 
 .sectiontitle {
   font-weight: 300;
-  font-size: 30px;
-  padding-top: 50px;
+  font-size: 24px;
+  padding-top: 30px;
   padding-bottom: 15px;
 }
 
 .links {
   padding-top: 15px;
   padding-bottom: 15px;
+}
+.backtotop {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 #caution {
   border: medium solid red;
