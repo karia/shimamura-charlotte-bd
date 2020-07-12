@@ -16,7 +16,7 @@
         </a></p>
 
         <div>
-          （この配布ワールドで遊ぶにはMinecraft Java Editionが必要です）
+          （Minecraft Java Editionが必要です。<a href="/howtoplay">インストール方法・アップデート方法はこちらのページを見てね</a>）
         </div>
 
         <h2 class="update-subtitle">
