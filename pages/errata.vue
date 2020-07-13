@@ -7,7 +7,7 @@
         </h1>
 
         <p>配布ワールドの下記の箇所に不具合がありましたので、訂正させていただきます。</p>
-        <p><strong>最終更新日時：2020年6月30日1:00</strong></p>
+        <p><strong>最終更新日時：2020年07月14日0:00</strong></p>
 
         <h2 class="eratta_subtitle">
           初期リスポーン位置の不具合について
@@ -43,6 +43,8 @@
           バーチャル赤羽エリア「赤羽の9冊の本の謎」について
         </h2>
 
+        <p><strong>この不具合は、7月14日に更新した配布データ（charlotte-world-1.16.1-2020-07-13-06-07-35.zip）にて修正されております。</strong></p>
+
         <section class="eratta_article">
           <div>
             <p>「赤羽の9冊の本の謎」の最後に本を収めるエリアにて、樽の中に本を収めても反応しないことがあります。</p>
@@ -66,6 +68,8 @@
           バーチャル赤羽エリア「ミコシャルTNT処理班」の解除指示書について
         </h2>
 
+        <p><strong>この不具合は、7月14日に更新した配布データ（charlotte-world-1.16.1-2020-07-13-06-07-35.zip）にて修正されております。</strong></p>
+
         <section class="eratta_article">
           <div>
             <p>ミコシャルTNT処理班の解除指示書P14にて、環境によって最後の一行が表示されない場合があります。</p>
@@ -86,6 +90,8 @@
         <h2 class="eratta_subtitle">
           バーチャル赤羽エリア「島村フラワーガーデン」前の地図について 
         </h2>
+
+        <p><strong>この不具合は、7月14日に更新した配布データ（charlotte-world-1.16.1-2020-07-13-06-07-35.zip）にて修正されております。</strong></p>
 
         <section class="eratta_article">
           <div>
@@ -126,6 +132,8 @@
         <h2 class="eratta_subtitle">
           バーチャル赤羽エリア「島村建設メディアビル」内の表記について
         </h2>
+
+        <p><strong>この不具合は、7月14日に更新した配布データ（charlotte-world-1.16.1-2020-07-13-06-07-35.zip）にて修正されております。</strong></p>
 
         <section class="eratta_article">
           <div>

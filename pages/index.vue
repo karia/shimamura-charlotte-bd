@@ -22,7 +22,14 @@
       <h3 class="sectiontitle">
         お知らせ
       </h3>
-      <p><a href="/errata">公開後に判明した不具合についての説明ページを公開しました（6月30日1:00更新）</a></p>
+
+      <div>
+        <strong><a href="/hnst2nd">ハニスト2周年記念アップデートを公開しました！（7月14日0:00更新）</a></strong>
+      </div>
+
+      <div>
+        <a href="/errata/">公開後に判明した不具合についての説明ページを公開しました（7月14日0:00更新）</a>
+      </div>
 
       <section class="movie">
         <h2 class="subtitle">
