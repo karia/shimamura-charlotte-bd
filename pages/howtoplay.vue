@@ -53,32 +53,37 @@
         </h3>
 
         <section class="howtoplay_article">
-          <p>以下の手順ではシングルのワールドとしてデータをインポートします。完了するとシングルで遊べるようになります。</p>
+          <p>以下の手順ではシングルプレイ用のワールドとして、マイクラにデータをインポートします。</p>
+          <p>アップデートの方もこちらの手順を利用してください！</p>
 
-          <p>(0) ダウンロードしたzipファイルを解凍し、中に「charlotte-world」というフォルダがあるのを確認する</p>
+          <p>(1) ダウンロードしたzipファイルを解凍する（中に「charlotte-world」というフォルダが入っています）</p>
           <img src="windows/download-zip.png" alt="download-zip">
 
-          <p>(1) マインクラフトを起動し、「設定」をクリック</p>
+          <p>(2) マインクラフトを起動し、「設定」をクリック</p>
           <img src="windows/1.png" alt="1">
 
-          <p>(2)「リソースパック」をクリック</p>
+          <p>(3)「リソースパック」をクリック</p>
           <img src="windows/2.png" alt="2">
 
-          <p>(3)「リソースパックフォルダーを開く」をクリックする（別ウインドウでフォルダを開きます）</p>
+          <p>(4)「リソースパックフォルダーを開く」をクリックする（別ウインドウでフォルダを開きます）</p>
           <img src="windows/3.png" alt="3">
 
-          <p>(4) １つ上のフォルダに戻るボタンを押す</p>
+          <p>(5) １つ上のフォルダに戻るボタンを押す</p>
           <img src="windows/4.png" alt="4">
 
-          <p>(5) 「saves」フォルダを開く</p>
+          <p>(6) 「saves」フォルダを開く</p>
           <img src="windows/5.png" alt="5">
 
-          <p>(6) マインクラフトを一旦終了させる</p>
+          <p>(7) マインクラフトを一旦終了させる</p>
+          <img src="windows/minecraft-end.png" alt="5">
 
-          <p>(7) 「charlotte-world」フォルダを「saves」フォルダ内にドラッグ＆ドロップ</p>
+          <p>(8) <strong>アップデートする場合、「saves」フォルダに元からある「charlotte-world」の名前を別の名前に変更する</strong></p>
+          <img src="windows/rename-before-update.png" alt="rename">
+
+          <p>(9) 手順1で解凍した「charlotte-world」フォルダを「saves」フォルダ内にドラッグ＆ドロップ</p>
           <img src="windows/saves-folder.png" alt="saves">
 
-          <p>(8) マインクラフトを再度起動し、タイトルから「シングルプレイ」を選択。一覧にある「charlotte-world」と書かれたワールドを起動</p>
+          <p>(10) マインクラフトを再度起動し、タイトルから「シングルプレイ」を選択。一覧にある「charlotte-world」と書かれたワールドを起動</p>
           <img src="windows/select-world.png" alt="saves">
         </section>
 
@@ -87,30 +92,34 @@
         </h3>
 
         <section class="howtoplay_article">
-          <p>(0) ダウンロードしたzipファイルを解凍する（中にcharlotte-worldというフォルダが入っています）</p>
+          <p>以下の手順ではシングルプレイ用のワールドとして、マイクラにデータをインポートします。</p>
+          <p>アップデートの方もこちらの手順を利用してください！</p>
 
-          <p>(1) 画面左下の、「Finder」のボタンをクリック</p>
+          <p>(1) ダウンロードしたzipファイルを解凍する（中にcharlotte-worldというフォルダが入っています）</p>
+
+          <p>(2) 画面左下の、「Finder」のボタンをクリック</p>
           <img src="mac/01.png" alt="01">
 
-          <p>(2) 画面左上の「移動」をクリックしたあと、「option」キーを押すと、押している間だけ「ライブラリ」が表示されるので、「ライブラリ」をクリック</p>
+          <p>(3) 画面左上の「移動」をクリックしたあと、「option」キーを押すと、押している間だけ「ライブラリ」が表示されるので、「ライブラリ」をクリック</p>
           <img src="mac/02.png" alt="02">
 
-          <p>(3) 「Application Support」をダブルクリック</p>
+          <p>(4) 「Application Support」をダブルクリック</p>
           <img src="mac/03.png" alt="03">
 
-          <p>(4)「minecraft」をダブルクリック</p>
+          <p>(5)「minecraft」をダブルクリック</p>
           <img src="mac/04.png" alt="04">
 
-          <p>(5) 「saves」をダブルクリック</p>
+          <p>(6) 「saves」をダブルクリック</p>
           <img src="mac/05.png" alt="05">
 
-          <p>(6) 解凍したフォルダ（charlotte-world）を「saves」のウィンドウにドラッグ＆ドロップ</p>
+          <p>(7) <strong>アップデートする場合、「saves」フォルダに元からある「charlotte-world」の名前を別の名前に変更する</strong></p>
+          <p>(8) 手順1で解凍したフォルダ（charlotte-world）を「saves」のウィンドウにドラッグ＆ドロップ</p>
           <img src="mac/06.png" alt="06">
 
-          <p>(7) マインクラフトを起動し、タイトルから「シングルプレイ」を選択。</p>
+          <p>(9) マインクラフトを起動し、タイトルから「シングルプレイ」を選択。</p>
           <img src="mac/title.png" alt="title">
 
-          <p>(8) 「ワールドを選択」の画面に配布ワールドが追加されているので、選択して起動！</p>
+          <p>(10) 「ワールドを選択」の画面に配布ワールドが追加されているので、選択して起動！</p>
           <img src="mac/07.png" alt="07">
         </section>
 
