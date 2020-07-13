@@ -53,7 +53,7 @@
         </h3>
 
         <section class="howtoplay_article">
-          <p>以下の手順ではシングルのワールドとしてデータをインポートします。完了するとシングルで遊べるようになります。</p>
+          <p>以下の手順ではシングルプレイ用のワールドとしてデータをインポートします。</p>
 
           <p>(1) ダウンロードしたzipファイルを解凍する（中に「charlotte-world」というフォルダが入っています）</p>
           <img src="windows/download-zip.png" alt="download-zip">
@@ -79,7 +79,7 @@
           <p>(8) <strong>アップデートする場合、「saves」フォルダに元からある「charlotte-world」の名前を別の名前に変更する</strong></p>
           <img src="windows/rename-before-update.png" alt="rename">
 
-          <p>(9) 手順0で解凍した「charlotte-world」フォルダを「saves」フォルダ内にドラッグ＆ドロップ</p>
+          <p>(9) 手順1で解凍した「charlotte-world」フォルダを「saves」フォルダ内にドラッグ＆ドロップ</p>
           <img src="windows/saves-folder.png" alt="saves">
 
           <p>(10) マインクラフトを再度起動し、タイトルから「シングルプレイ」を選択。一覧にある「charlotte-world」と書かれたワールドを起動</p>
@@ -108,13 +108,14 @@
           <p>(6) 「saves」をダブルクリック</p>
           <img src="mac/05.png" alt="05">
 
-          <p>(7) 解凍したフォルダ（charlotte-world）を「saves」のウィンドウにドラッグ＆ドロップ</p>
+          <p>(7) <strong>アップデートする場合、「saves」フォルダに元からある「charlotte-world」の名前を別の名前に変更する</strong></p>
+          <p>(8) 手順1で解凍したフォルダ（charlotte-world）を「saves」のウィンドウにドラッグ＆ドロップ</p>
           <img src="mac/06.png" alt="06">
 
-          <p>(8) マインクラフトを起動し、タイトルから「シングルプレイ」を選択。</p>
+          <p>(9) マインクラフトを起動し、タイトルから「シングルプレイ」を選択。</p>
           <img src="mac/title.png" alt="title">
 
-          <p>(9) 「ワールドを選択」の画面に配布ワールドが追加されているので、選択して起動！</p>
+          <p>(10) 「ワールドを選択」の画面に配布ワールドが追加されているので、選択して起動！</p>
           <img src="mac/07.png" alt="07">
         </section>
 
