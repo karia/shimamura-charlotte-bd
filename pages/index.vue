@@ -109,6 +109,10 @@
             ファイル名：charlotte-world-1.16.1-2020-07-13-06-07-35.zip
           </p>
 
+          <p>
+            （上のボタンからのダウンロードが失敗する場合は <a href="https://drive.google.com/file/d/1Ne0EyHRBXDmwmjXjCwbaOCue6__Ev8eU/view?usp=sharing">Googleドライブからのダウンロード</a>をお試しください）
+          </p>
+
           <p>このワールドのインストール方法・推奨設定・利用規約は下段よりご確認ください</p>
         </div>
       </section>
