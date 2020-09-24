@@ -19,6 +19,10 @@
           （Minecraft Java Editionが必要です。<a href="/howtoplay">インストール方法・アップデート方法はこちらのページを見てね</a>）
         </div>
 
+        <div>
+          （上のボタンからのダウンロードが失敗する場合は <a href="https://drive.google.com/file/d/1Ne0EyHRBXDmwmjXjCwbaOCue6__Ev8eU/view?usp=sharing">Googleドライブからのダウンロード</a>をお試しください）
+        </div>
+
         <h2 class="update-subtitle">
           お祭り会場！
         </h2>
